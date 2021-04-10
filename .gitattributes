@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+echo "# Tabela_De_Salarios" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VictorKobinski/Tabela_De_Salarios.git
+git push -u origin main
+git config --global user.email "victorkobinski@outlook.com"
+git config --global user.name "Victor Kobinski"
