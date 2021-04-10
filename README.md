@@ -1,5 +1,5 @@
 # tabela
- Tabela para cálculo de INSS e IRRF.
+ <h1>Tabela para cálculo de INSS e IRRF.<h1>
 +
 Essa tabela usa do salário bruto inserido pelo Usuário no campo de texto, para calcular o INSS(Imposto sobre o Seguro Social) e o IRRF(Imposto de Renda).
 +
